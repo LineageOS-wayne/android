@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="device/xiaomi/wayne" name="LineageOS-wayne/android_device_xiaomi_wayne" />
-  <project path="vendor/xiaomi/wayne" name="LineageOS-wayne/android_vendor_xiaomi_wayne" />
-  <project path="kernel/xiaomi/wayne" name="LineageOS-wayne/android_kernel_xiaomi_wayne" />
+  <project path="device/xiaomi/wayne" name="LineageOS-wayne/android_device_xiaomi_wayne" revision="lineage-20.0-old-cam"/>
+  <project path="vendor/xiaomi/wayne" name="LineageOS-wayne/android_vendor_xiaomi_wayne" revision="lineage-20.0-old-cam"/>
+  <project path="kernel/xiaomi/wayne" name="LineageOS-wayne/android_kernel_xiaomi_wayne" revision="lineage-20.0-old-cam"/>
 
 </manifest>
