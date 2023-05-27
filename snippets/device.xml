@@ -4,6 +4,5 @@
   <project path="device/xiaomi/wayne" name="LineageOS-wayne/android_device_xiaomi_wayne" />
   <project path="vendor/xiaomi/wayne" name="LineageOS-wayne/android_vendor_xiaomi_wayne" />
   <project path="kernel/xiaomi/wayne" name="LineageOS-wayne/android_kernel_xiaomi_wayne" />
-  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-20" />
 
 </manifest>
